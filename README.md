@@ -6,7 +6,7 @@ A simple and fun typing game that helps improve your speed and accuracy!
 
 ## 🔗 Visit My Project
 
-🌐 **Live Demo**: [Click Here to Open 🚀](https://jigarshah45.github.io/to-do-list/)
+🌐 **Live Demo**: [Click Here to Open 🚀]( https://jigarshah45.github.io/typing-game/)
 
 ---
 
@@ -20,7 +20,7 @@ A simple and fun typing game that helps improve your speed and accuracy!
 ## How to Use
 1. Open `index.html` in your browser.
 2. Click anywhere or press any key to start typing.
-3. Try to type the displayed paragraph as fast and accurately as you can!
+3. Try to type the displayed paragraph as quickly and accurately as possible!
 4. Click "Try Again" to restart the game.
 
 ## Tech Stack
