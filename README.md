@@ -17,11 +17,15 @@ A simple and fun typing game that helps improve your speed and accuracy!
 - 60-second timer
 - Reset and try again functionality
 
+---
+
 ## How to Use
 1. Open `index.html` in your browser.
 2. Click anywhere or press any key to start typing.
 3. Try to type the displayed paragraph as quickly and accurately as possible!
 4. Click "Try Again" to restart the game.
+
+---
 
 ## Tech Stack
 - HTML
